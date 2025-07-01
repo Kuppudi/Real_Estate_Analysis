@@ -1,3 +1,1 @@
-
-A brief (about 3 sentences) summary of your project and major conclusions.
-Specify which Style Guide you used to write your code. 
+This project aims to explore how the cost of living and housing affordability differ between Japan and the United States (mainly California). Using 3 publicly available Kaggle datasets, I looked at trends in hous prices in Japan from 2005 to 2024, assessed the relationship between income and housing prices in California,and compared cost of licing changes between the two places. Libraries used are dylpr and ggplot2 for cleaning and visualization the datasets, and code follows the Tidyverse Style Guide.
